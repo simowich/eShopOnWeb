@@ -11,7 +11,7 @@ on:
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
   RESOURCE-GROUP: rg-eshoponweb-simowich
-  LOCATION: uksouth
+  LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 58a31ddf-a79d-40f4-a5d3-75f7a00a913e
   WEBAPP-NAME: eshoponweb-webapp-simowich
